@@ -15,10 +15,10 @@ name: Filter-Undent
 provides:
   Filter::Undent:
     file: lib/Filter/Undent.pm
-    version: v1.0.1
+    version: v1.0.2
 requires:
   Filter::Simple: 0
   perl: 5.006
 resources:
   license: http://dev.perl.org/licenses/
-version: v1.0.1
+version: v1.0.2
